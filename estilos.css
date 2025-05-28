@@ -1,0 +1,82 @@
+.colornav{
+    background-color:royalblue;
+}
+.nav-link{
+    color: azure !important;
+}
+.navbar-brand{
+    color: azure;
+}
+.nav-link:hover{
+    color: midnightblue !important;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hero-content{
+    margin-top: 60px;
+    background: url("/img/nacer-bebe-atencion-pediatra-necesaria.jpeg")no-repeat center center /cover;
+    height: 100vh;
+    color: midnightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0 40px;
+}
+.intro{
+    font-size: 20px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6;
+    background-color: rgb(151, 120,280, 0.2);
+
+}
+.card-header{
+    background-color: blue;
+        color: dodgerblue !important;
+
+    
+}
+.card-footer{
+    background-color: blue;
+    color: dodgerblue !important;
+}
+.active{
+    color: midnightblue !important;
+}
+.mibarra{
+    background-color: dodgerblue;
+}
+.text-center{
+    margin: 70px;
+}
+.section{
+    padding: 10px 1rem;
+    background-color: midnightblue;
+}
+.card{
+    margin: 1rem 0;
+}
+.conteiner{
+    height: 350px;
+}
+.imagen-carrusel{
+    height: 800px !important;
+    object-fit: cover !important;
+}
+.container{
+margin-top: 70px;
+background: url(img/abstract-geometric-medical-cross-shape-medicine-and-science-concept-background-medicine-medical-health-cross-healthcare-decoration-for-flyers-poster-web-banner-and-card-illustration-vector.jpg);
+height: 500px;
+}
+.card-title{
+    color: blue;
+}
