@@ -21,7 +21,7 @@ body{
 }
 .hero-content{
     margin-top: 60px;
-    background: url("/img/nacer-bebe-atencion-pediatra-necesaria.jpeg")no-repeat center center /cover;
+    background: url("img/nacer-bebe-atencion-pediatra-necesaria.jpeg")no-repeat center center /cover;
     height: 100vh;
     color: midnightblue;
     display: flex;
